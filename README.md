@@ -77,8 +77,7 @@
 | [Nota](#Nota) | 완전 자율 출퇴근<br>(유연근무제X<br>정해진 근무시간 없음)  | 완전 자율 원격근무 | [회사 페이지](https://nota.ai/) / [채용공고](https://nota.ai/recruiting.html) |
 | [이스트소프트](#이스트소프트) | 시차출퇴근제 | 원격근무(주3회) | [홈페이지](https://www.estsoft.ai/) / [회사소개](https://bit.ly/3dYpCc4) |
 | 한화정밀기계 | 자율 줄퇴근  | 원격 근무 코로나때 2주 빤짝 | [회사 페이지](https://www.hanwhaprecisionmachinery.co.kr/) |
-| 메리츠화재해상보험(주) | 출퇴근자율 | 주 5회 | [회사소개](https://www.meritzfire.com/) / [채용공고](https://053.alba.co.kr/job/Detail.asp?adid=102558817) |
-| [트레바리](#트레바리) | 9~11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시~19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
+| 메리츠화재해상보험(주) | 출퇴근자율 | 주 5회 | [회사소개](https://www.meritzfire.com/) / [채용공고](https://053.alba.co.kr/job/Detail.asp?adid=102558817)
 |[줌인터넷](#줌인터넷)|08/09/10시 시차출퇴근 가능| 필요시 재택근무 가능 | [홈페이지](https://www.zuminternet.com/) / [채용공고](https://estsoft.recruiter.co.kr/app/jobnotice/list)
 | [드라마앤컴퍼니(리멤버)](#드라마앤컴퍼니리멤버)|8시30분~10시30분 선택적 출근시간제| COVID-19 유행 단계에 따라 재택근무/순환근무 중 | [회사소개 및 채용공고](http://dramancompany.com/joinus/)
 | [루닛](#루닛) | 완전 자율 출퇴근 / 무컨펌 무제한 휴가 | 완전 알아서 원격 근무(면대면 회의가 필요할때만 나와도 됩니다) | [홈페이지](https://www.lunit.io/ko/) / [채용공고](https://apply.workable.com/lunit/) |
